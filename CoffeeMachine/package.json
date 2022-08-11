@@ -1,0 +1,21 @@
+{
+  "name": "coffeemachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santomi3112/belajar-js.git"
+  },
+  "author": "tomi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santomi3112/belajar-js/issues"
+  },
+  "homepage": "https://github.com/santomi3112/belajar-js#readme"
+}
